@@ -1,6 +1,6 @@
 # Luminoso OptiRank
 
-Some explorations of car reviews from [Ganesan & Zhai (2011)][zhai2011] 
+Some explorations of car reviews from [Ganesan & Zhai 2011][zhai2011] 
 (downloaded from the [UCI machine learning repository](http://archive.ics.uci.edu/ml/datasets/OpinRank+Review+Dataset))
 using the [Luminoso](http://www.luminoso.com/) APIv4.
 
